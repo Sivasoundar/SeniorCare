@@ -2191,7 +2191,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .brand-area-l-14-items {
-  margin: 0px -20px -45px -20px;
+  margin: 0px -20px 60px -20px;
 }
 
 .brand-area-l-14-items p {
@@ -2205,18 +2205,18 @@ li.sub-menu--item.nav-item-has-children i {
 
 .brand-aarea-border-l14 {
   border-top: 1px solid #E4E4E4;
-  margin: 60px 0px 0px 0px;
+  margin: 0px;
 }
 
 @media (min-width: 768px) {
   .brand-aarea-border-l14 {
-    margin: 80px 0px 0px 0px;
+    margin: 0px;
   }
 }
 
 @media (min-width: 992px) {
   .brand-aarea-border-l14 {
-    margin: 100px 0px 0px 0px;
+    margin: 0px;
   }
 }
 
@@ -2342,7 +2342,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 @media (min-width: 992px) {
   .features-area-l-14 .bg-shape-img-2 {
-    background: url(../image/l4/features-bg.png);
+    /* background: url(../image/l4/features-bg.png); */
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2379,7 +2379,7 @@ li.sub-menu--item.nav-item-has-children i {
 .features-area-l-14 .content-area h5 {
   font-family: Rubik;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bolder;
   font-size: 28px;
   line-height: 32px;
   letter-spacing: -1.33333px;
@@ -2390,7 +2390,7 @@ li.sub-menu--item.nav-item-has-children i {
 .features-area-l-14 .content-area p {
   font-family: Karla;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 17px;
   line-height: 28px;
   /* or 165% */
@@ -2611,7 +2611,7 @@ li.sub-menu--item.nav-item-has-children i {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #fff;
+  color: #000;
   height: 34px;
   background: transparent;
   left: 9px;
@@ -2626,7 +2626,7 @@ li.sub-menu--item.nav-item-has-children i {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #000;
+  color: white;
   height: 34px;
   background: transparent;
   right: 9px;
